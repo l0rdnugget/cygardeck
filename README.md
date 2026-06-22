@@ -24,7 +24,7 @@ A Father's Day gift for a dad who loves to destress by going on the patio, smoki
 ### Hardware & Mounting
 | Part | Notes |
 |------|-------|
-| [Art3d Hook and Loop Adhesive Strips, 1"x4" Heavy Duty](https://www.amazon.com/) | For securing components inside the box |
+| [Art3d Hook and Loop Adhesive Strips, 1"x4" Heavy Duty](https://a.co/d/0imKogVy) | For securing components inside the box |
 | Small nuts and bolts | For mounting the monitor to the lid |
 | Gorilla Glue | For securing wood plank and other elements |
 
