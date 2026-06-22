@@ -15,9 +15,9 @@ A Father's Day gift for a dad who loves to destress by going on the patio, smoki
 |------|-------|
 | [Raspberry Pi 4 Model B](https://www.microcenter.com/product/621439/raspberry-pi-4-model-b) | The brain of the build |
 | [Miuzei Case for Raspberry Pi 4 with Fan, USB-C Power Supply, Micro HDMI Cable & Adapter, Aluminum Heat Sinks, USB Card Reader](https://www.amazon.com/dp/B07VX2WDHM) | Required assembly including heat sinks and fan |
-| [Hosyond 7" IPS LCD Touch Screen 1024×600 HDMI](https://www.amazon.com/dp/B09XKC53NH) | Mounted inside the lid of the box |
-| [Anker 20,000mAh Power Bank with Built-in USB-C, 87W](https://www.amazon.com/dp/B0CXDXP8VR) | Powers the Pi — keeps the build fully portable |
-| [Mini Bluetooth Keyboard with Touchpad — Orange](https://www.amazon.com/dp/B0GY7B3P2N) | Wireless, no dongle needed |
+| [Hosyond 7" IPS LCD Touch Screen 1024×600 HDMI](https://a.co/d/01lzHaxC) | Mounted inside the lid of the box |
+| [Anker 20,000mAh Power Bank with Built-in USB-C, 87W](https://a.co/d/00Ym4Ecy) | Powers the Pi — keeps the build fully portable |
+| [Mini Bluetooth Keyboard with Touchpad — Orange](https://a.co/d/0etdPRpK) | Wireless, no dongle needed |
 | MicroSD Card | For the Raspberry Pi OS |
 | Assorted cables (Micro HDMI to HDMI, USB-C) | Micro HDMI cable and adapter included in Miuzei kit |
 
