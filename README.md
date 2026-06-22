@@ -2,8 +2,11 @@
 
 A Father's Day gift for a dad who loves to destress by going on the patio, smoking a cigar and listening to metal. Built a portable Raspberry Pi media box inside a cigar box. Screen mounted in the lid, Bluetooth audio, and a compact wireless keyboard so he can control everything without touching his phone (which he hates).
 
+<p align="left">
+  <img src="./Cyberdeck-top.jpeg" height="300px"/>
+  <img src="./Cyberdeck-inside.png" height="300px"/>
+</p>
 
----
 
 ## Parts List
 
@@ -38,11 +41,11 @@ A Father's Day gift for a dad who loves to destress by going on the patio, smoki
 
 ## Build Notes
 
-- The Miuzei case required full assembly — heat sinks applied to the Pi chips, fan mounted and connected before closing the case
+- The Miuzei case required full assembly, embedded the heat sinks to the Pi chips, fan mounted and connected before closing the case
 - The 7" touchscreen is bolted to the inside of the cigar box lid using small nuts and bolts
 - Hook and loop strips are used to secure the Pi, power bank, and keyboard inside the box for easy removal
 - Suede leather lines the interior for a clean, finished look
-- Bluetooth audio lets Dad connect his speakers or headphones directly — no phone needed
+- Bluetooth audio lets Dad connect his speakers or headphones directly, no phone needed :)
 
 ---
 
@@ -52,7 +55,7 @@ A Father's Day gift for a dad who loves to destress by going on the patio, smoki
 2. Assemble Pi in Miuzei case (heat sinks + fan)
 3. Connect Hosyond screen via Micro HDMI
 4. Configure Bluetooth audio output in Raspberry Pi OS settings
-5. Power via Anker power bank — fully portable!
+5. Power via Anker power bank, fully portable
 
 ---
 
